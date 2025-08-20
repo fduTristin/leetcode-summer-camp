@@ -51,7 +51,6 @@
 - [11. Container With Most Water](https://leetcode.cn/problems/container-with-most-water/)
 - [15. 3Sum](https://leetcode.cn/problems/3sum/)
 - [42. Trapping Rain Water](https://leetcode.cn/problems/trapping-rain-water/)
-- [18. 4Sum](https://leetcode.cn/problems/4sum/)
 
 ### Day 7 — 滑动窗口
 
